@@ -29,7 +29,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=yelnady&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](github.com/Jimmy586/)
+[![Top Langs](![Jimmy586's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy586&show_icons=true&theme=radical))
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yelnady&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
 
