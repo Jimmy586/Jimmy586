@@ -5,7 +5,7 @@
 
 💡 More than 3 years of practical hands-on experience in data analysis, machine learning, natural language processing.💡
 
-💡 More than 7 years of experience in Python, C++, Java, and Linux.💡
+💡 More than 5 years of experience in Python, C++, Java, and Linux.💡
 
 💡 Fileds of interest: Cloud computing, information retrieval, statistical analysis, Distributed Systems, Machine Learning, data science.💡
 
