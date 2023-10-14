@@ -60,7 +60,7 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jimmy586&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy586&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Jimmy586&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vatosoa-mananjara-jimmy/) 
