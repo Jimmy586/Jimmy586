@@ -44,10 +44,8 @@
 # 💻 Cloud Computing Tech Stack:
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
  ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) 
  ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
@@ -62,15 +60,14 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jimmy586&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
 
+![](https://github-readme-stats.vercel.app/api?username=Jimmy586&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy586&theme=dark&hide_border=false)<br/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vatosoa-mananjara-jimmy/) 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Jimmy586&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy586&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy586&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-###The Meme of the DAY
+## Don't miss the Meme of the DAY
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
