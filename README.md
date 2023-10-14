@@ -5,7 +5,7 @@
 
 💡 More than 3 years of practical hands-on experience in data analysis, machine learning, natural language processing.💡
 
-💡 More than 5 years of experience in Python, C++, Java, and Linux.💡
+💡 More than 5 years of experience in Python, C++, Java, and Linux (Bash).💡
 
 💡 Fileds of interest: Cloud computing, information retrieval, statistical analysis, Distributed Systems, Machine Learning, data science.💡
 
@@ -60,12 +60,10 @@
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jimmy586&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
 
-![](https://github-readme-stats.vercel.app/api?username=Jimmy586&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jimmy586&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vatosoa-mananjara-jimmy/) 
-
 
 ## Don't miss the Meme of the DAY
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
