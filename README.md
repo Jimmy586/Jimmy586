@@ -1,5 +1,5 @@
-## Hi, I'm Mananjara Jimmy (☕💻❤️)
-💡 I am a Machine Learning Scientist with an interest in the latest developments in deep learning and its applications in the fields of   Large Model Language.💡
+## Hi, I'm Mananjara Jimmy (☕💻❤)
+💡 I am a Machine Learning Scientist with an interest in the latest developments in deep learning and its applications in the fields of Large Model Language.💡
 
 💡 Master of Science in Cloud and Networks and a Bachelor of Science in AI ; Currently Looking for my graduation internship (by Feb 2024). 💡
 
@@ -26,13 +26,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-##Technologues
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/:user/:repo)
+
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=yelnady&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/yelnady)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=yelnady&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](github.com/Jimmy586/)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yelnady&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](https://github.com/yelnady)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yelnady&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
 
 <!--
 **Jimmy586/Jimmy586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
