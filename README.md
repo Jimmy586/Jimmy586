@@ -7,7 +7,7 @@
 
 💡 More than 5 years of experience in Python, C++, Java, and Linux (Bash).💡
 
-💡 Fileds of interest: Cloud computing, information retrieval, statistical analysis, Distributed Systems, Machine Learning, data science.💡
+💡 Fileds of interest: Cloud computing, Information storage and retrieval, Statistical analysis, Distributed Systems, Machine Learning, data science.💡
 
 
 ![](https://komarev.com/ghpvc/?username=yelnady)
