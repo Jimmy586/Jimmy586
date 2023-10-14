@@ -29,9 +29,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](![Jimmy586's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy586&show_icons=true&theme=radical))
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yelnady&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jimmy586&layout=compact&theme=dark&langs_count=6&hide=HTML,CSS)](github.com/Jimmy586/)
 
 <!--
 **Jimmy586/Jimmy586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
