@@ -10,7 +10,7 @@
 💡 Fileds of interest: Cloud computing, Information storage and retrieval, Statistical analysis, Distributed Systems, Machine Learning, data science.💡
 
 
-![](https://komarev.com/ghpvc/?username=Jimmy586)
+%% ![](https://komarev.com/ghpvc/?username=Jimmy586)
 
 
 ## Languages 
