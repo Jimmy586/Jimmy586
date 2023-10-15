@@ -8,7 +8,7 @@
 💡 More than 5 years of experience in Python, C++, Java, and Linux (Bash).💡
 
 💡 Fileds of interest: Cloud computing, Information storage and retrieval, Statistical analysis, Distributed Systems, Machine Learning, data science.💡
-
+ (Some projects are private for research purposes)
 
 ![](https://komarev.com/ghpvc/?username=Jimmy586)
 
