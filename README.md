@@ -1,4 +1,4 @@
-## Hi, I'm Mananjara Jimmy (☕💻❤)
+## Hi, I'm Mananjara Jimmy (☕💻</>)
 💡 I am a Machine Learning Scientist with an interest in the latest developments in deep learning and its applications in the fields of Large Model Language.💡
 
 💡 Master of Science in Cloud and Networks and a Bachelor of Science in AI ; Currently Looking for my graduation internship (by Feb 2024). 💡
