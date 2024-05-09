@@ -65,8 +65,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vatosoa-mananjara-jimmy/) 
 
-## Don't miss the Meme of the DAY
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
