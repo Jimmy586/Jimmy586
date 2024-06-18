@@ -1,7 +1,7 @@
 ## Hi, I'm Mananjara Jimmy (☕💻</>)
-💡 I am a Machine Learning Engineer with an interest in the latest developments in Deep Learning and its applications in the fields of Large Model Language.💡
+💡 I am a Machine Learning Engineer with an solid experience in in Deep Learning and its applications in the fields of computer vision and Large Model Language.💡
 
-💡 Master of Science in Cloud and Networks and a Bachelor of Science in AI 💡
+💡 Master of Science in Cloud and Networks , complemented with a Bachelor of Science in AI 💡
 
 💡 More than 3 years of practical hands-on experience in Data Analysis, Machine Learning, Computer Vision.💡
 
