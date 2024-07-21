@@ -1,5 +1,5 @@
 ## Hi, I'm Mananjara Jimmy (☕💻</>)
-💡 I am a Machine Learning Engineer with an solid experience in in Deep Learning and its applications in the fields of computer vision and Large Model Language.💡
+💡 I am a Machine Learning Engineer with an solid experience in in Deep Learning and its applications in the fields of computer vision and Large Language Model (GenAI and LLM).💡
 
 💡 Master of Science in Cloud and Networks , complemented with a Bachelor of Science in AI 💡
 
@@ -10,7 +10,7 @@
 💡 Fileds of interest: Cloud computing, Scalable Systems, Statistical analysis, Distributed Systems, Machine Learning, Data Science.💡
  (Some projects are private for research purposes)
  
-🔭 I’m currently working on projects that analyze PCB components with Computer Vision and OCR to showcase a practical application of these technologies in industry. Moreover, developing a Neural-based Decompiler (N-Bref) framework as a testament to my innovative approach to problem-solving in the tech world.
+🔭 I’m currently working on projects that analyze PCB components with Computer Vision and OCR to showcase a practical application of these technologies in industry. Moreover, I am customizing a Neural-based Decompiler (N-Bref and LLM4Decompiler) framework as a testament to my innovative approach to problem-solving in the tech world.
 
 ![](https://komarev.com/ghpvc/?username=Jimmy586)
 
