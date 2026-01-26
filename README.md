@@ -1,12 +1,6 @@
 ## Hi, I'm Mananjara Jimmy (☕💻</>)
 💡 I am a Machine Learning Engineer with an solid experience in in Deep Learning and its applications in the fields of computer vision and Large Language Model (GenAI and LLM).💡
 
-💡 Master of Science in Cloud and Networks , complemented with a Bachelor of Science in AI 💡
-
-💡 More than 3 years of practical hands-on experience in Data Analysis, Machine Learning, Computer Vision.💡
-
-💡 More than 5 years of experience in Python, C++, Java, and Linux (Bash).💡
-
 💡 Fileds of interest: Cloud computing, Scalable Systems, Statistical analysis, Distributed Systems, Machine Learning, Data Science.💡
  (Some projects are private for research purposes)
  
